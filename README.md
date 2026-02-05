@@ -3,6 +3,9 @@
 
  This Power BI dashboard provides an interactive analysis of hotel booking data from 2015 to 2017, covering City Hotel and Resort Hotel performance. It highlights booking trends, customer behavior, and key performance metrics to support data-driven decisions.
 
+ <img width="1308" height="731" alt="image" src="https://github.com/user-attachments/assets/fa386ab6-fa50-4f86-9dcd-94d3a7a1c6f9" />
+
+
 ## 🔍 Key Insights
 
 - Total Bookings: 330 across both hotels
